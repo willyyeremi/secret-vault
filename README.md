@@ -23,7 +23,7 @@ This repository will create needed backend for this project to run (mainly datab
 
 This project contain REST API to manage the secrets
 
-## [Key Manager](https://github.com/willyyeremi/sv-key-manager)
+## [Key Derivation Manager](https://github.com/willyyeremi/sv-key-derivation-manager)
 
 This project contain REST API to manage derrivative key versioning for each secrets
 
